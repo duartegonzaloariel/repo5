@@ -1,0 +1,8 @@
+C:\Users\GONZALO\Desktop\Nueva carpeta\Prueba1\bin\Debug\Prueba1.exe.config
+C:\Users\GONZALO\Desktop\Nueva carpeta\Prueba1\bin\Debug\Prueba1.exe
+C:\Users\GONZALO\Desktop\Nueva carpeta\Prueba1\bin\Debug\Prueba1.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta\Prueba1\obj\Debug\Prueba1.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta\Prueba1\obj\Debug\Prueba1.csproj.SuggestedBindingRedirects.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta\Prueba1\obj\Debug\Prueba1.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta\Prueba1\obj\Debug\Prueba1.exe
+C:\Users\GONZALO\Desktop\Nueva carpeta\Prueba1\obj\Debug\Prueba1.pdb
